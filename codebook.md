@@ -33,7 +33,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 Merging the training and testing data sets as described in the "readme" file here
 
-https://github.com/datasourcery/tidy_data_project/blob/master/README.md
+https://github.com/Yoga2Pro/getdata-007/blob/master/run_analysis.R
 
 resulted in a data frame of dimensions (10299, 563).
 
